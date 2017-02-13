@@ -1,5 +1,5 @@
-#ifndef MCP3008
-#define MCP3008
+#ifndef MCP3008_CLASS
+#define MCP3008_CLASS
 
 #include <Arduino.h>
 
