@@ -1,3 +1,6 @@
+#ifndef MCP3008
+#define MCP3008
+
 #include <Arduino.h>
 
 class MCP3008 {
@@ -8,3 +11,4 @@ class MCP3008 {
   private:
     int _csPin;
 };
+#endif
