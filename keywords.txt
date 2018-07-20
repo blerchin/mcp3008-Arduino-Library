@@ -10,13 +10,13 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-readMCP KEYWORD2
+readMCP	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
 #######################################
 
-MCP3008 KEYWORD2
+MCP3008	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
